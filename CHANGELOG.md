@@ -1,3 +1,7 @@
+## 0.1.1
+
+* Null Safety and Flutter 3.0 Upgrade
+
 ## 0.1.0-null-safety.4
 
 * Upgraded dart constaint to 2.14
